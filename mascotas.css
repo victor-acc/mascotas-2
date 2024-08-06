@@ -1,0 +1,36 @@
+.hero-section {
+    background: url(https://png.pngtree.com/thumb_back/fw800/background/20230611/pngtree-white-background-with-a-large-group-of-dogs-image_2957420.jpg) no-repeat center center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+    
+    
+}
+.feature-icon {
+    font-size: 2rem;
+}
+.testimonial-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 150px;
+}
+.footer-links a {
+    color: #fff;
+    margin-right: 15px;
+}
+.footer-links a:hover {
+    text-decoration: underline;
+}
+.col-12{
+    position: relative;
+   text-align: center;
+  
+    
+}
+.row  img{
+    
+    justify-content: center;
+    margin-left: -150px;
+    
+}
